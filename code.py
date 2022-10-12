@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 import math
 
 # Upload your data as a CSV and load as a DataFrame
-df = pd.read_csv("survey_results.csv")
+df = pd.read_csv("likertscalevisualization\survey_results.csv")
 df
 
 # Check that the rows add up to 100
